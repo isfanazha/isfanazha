@@ -12,11 +12,11 @@ Welcome to my Github Profile!
 ```text
 Monday                   1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
 Tuesday                  1152 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Wednesday                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Thursday                 954 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Friday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Saturday                 655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Wednesday                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Thursday                 954 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Friday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Saturday                 655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Sunday                   683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
@@ -30,17 +30,17 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Go                       17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 20/08/2024 01:04:58 UTC
+ Last Updated on 21/08/2024 01:04:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
