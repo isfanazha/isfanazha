@@ -5,28 +5,6 @@ I'm Isfan!
 Welcome to my Github Profile!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C644%20hrs%2029%20mins-blue)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Tuesday                  1152 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Wednesday                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 954 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Friday                   711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Saturday                 654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -40,7 +18,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 01:13:18 UTC
+ Last Updated on 09/09/2024 01:09:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
