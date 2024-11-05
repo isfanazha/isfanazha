@@ -5,6 +5,8 @@ I'm Isfan!
 Welcome to my Github Profile!
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C644%20hrs%2029%20mins-blue)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -38,7 +40,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 01:13:35 UTC
+ Last Updated on 05/11/2024 01:10:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
