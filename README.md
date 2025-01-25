@@ -24,7 +24,8 @@ Sunday                   683 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              █████████████████████████   99.71 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 **I Mostly Code in Go** 
@@ -40,7 +41,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2025 01:11:33 UTC
+ Last Updated on 25/01/2025 01:07:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
